@@ -1,0 +1,24 @@
+//
+//  BridgeTests.swift
+//  BrantaTests
+//
+//  Created by Keith Gardner on 4/8/24.
+//
+
+import XCTest
+@testable import Branta
+
+class BridgeTests: XCTestCase {
+    
+//    func testGetRuntimeHashes() {
+//        XCTAssertEqual(Bridge.getRuntimeHashes().keys.count, 1)
+//        XCTAssertEqual(Bridge.getRuntimeHashes()["Sparrow.app"]?.keys.count, 3)
+//        XCTAssertEqual(Bridge.getRuntimeHashes()["Wasabi Wallet.app"]?.keys.count, nil)
+//    }
+    
+    // TODO - crash
+//    func testGetInstallerHashes() {
+//        XCTAssertTrue(Bridge.getInstallerHashes().keys.count > 10)
+//    }
+    
+}
